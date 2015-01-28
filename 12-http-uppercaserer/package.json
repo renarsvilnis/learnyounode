@@ -1,0 +1,14 @@
+{
+  "name": "12-http-uppercaserer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renars Vilnis",
+  "license": "MIT",
+  "dependencies": {
+    "through2-map": "^1.4.0"
+  }
+}
