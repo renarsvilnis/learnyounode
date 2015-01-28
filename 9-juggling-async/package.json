@@ -1,0 +1,14 @@
+{
+  "name": "9-http-collect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renars Vilnis",
+  "license": "MIT",
+  "dependencies": {
+    "bl": "^0.9.4"
+  }
+}

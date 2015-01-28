@@ -1,5 +1,5 @@
 # Learnyounode
-Repository contains my [learnyounode][https://github.com/rvagg/learnyounode] exercise entries.
+Repository contains my [learnyounode](https://github.com/rvagg/learnyounode) exercise entries.
 
 
 ## Author
